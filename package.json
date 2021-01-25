@@ -1,6 +1,6 @@
 {
-  "homepage": "https://glory9.github.com/ai-cheque-reader/tree/master/client",
-  "name": "client",
+  "homepage": "https://glory9.github.com/check-reader",
+  "name": "check-reader",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,6 +1,6 @@
 {
-  "homepage": "https://glory9.github.com/check-reader",
-  "name": "check-reader",
+  "homepage": "https://glory9.github.com/client",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
